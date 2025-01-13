@@ -1,6 +1,6 @@
 import streamlit as st
-img = "2025 new_year_wishes.gif"
-logo ='https://github.com/RENSEN-TECHNOLOGIES-PTE/Pongal2025/blob/main/images/Happy%20Pongal.gif'
+# img = 
+logo ='images/rensenlogo.png'
 
 # Apply global styles
 # st.set_page_config(
@@ -23,7 +23,7 @@ with st.container():
     st.write("On this Pongal, may you receive the blessings of prosperity and joy. Have a fantastic festival with your loved ones and a great year ahead. Happy Pongal 2025")
     st.write("")
     st.write("")
-    st.image(img)
+    st.image("images/Happy Pongal.gif")
     st.write("")
     st.write("")
     st.header('Our Products:')
