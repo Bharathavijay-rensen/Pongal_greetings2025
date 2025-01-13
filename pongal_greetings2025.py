@@ -1,7 +1,7 @@
 import streamlit as st
-# img = 
+    # img = 
 logo ='images/rensenlogo.png'
-
+images/rensenlogo.png
 # Apply global styles
 # st.set_page_config(
 #     page_title="Styled Page", 
@@ -18,7 +18,7 @@ st.set_page_config(
 with st.container():
 
     st.image(logo , width=300)
-    st.title("🌾 Happy Pongal 🌾")
+    st.title("Happy Pongal 2025")
     st.write("")
     st.write("On this Pongal, may you receive the blessings of prosperity and joy. Have a fantastic festival with your loved ones and a great year ahead. Happy Pongal 2025")
     st.write("")
